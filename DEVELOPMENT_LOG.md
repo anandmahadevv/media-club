@@ -19,3 +19,6 @@
 ## Update (2026-03-12T09:46:22)
 - fix: handle null pointer exception in service layer
 
+## Update (2026-02-26T09:46:22)
+- perf: reduce memory footprint in background workers
+
