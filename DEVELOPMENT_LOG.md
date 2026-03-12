@@ -16,3 +16,6 @@
 ## Update (2026-03-26T09:46:22)
 - docs: update API endpoints documentation
 
+## Update (2026-03-12T09:46:22)
+- fix: handle null pointer exception in service layer
+
