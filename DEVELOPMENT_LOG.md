@@ -13,3 +13,6 @@
 ## Update (2026-04-09T09:46:21)
 - refactor: optimize data processing pipeline
 
+## Update (2026-03-26T09:46:22)
+- docs: update API endpoints documentation
+
