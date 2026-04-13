@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-50: #fef2f2;  /* red-50 */
+  --color-brand-100: #fee2e2;
+  --color-brand-500: #ef4444;
+  --color-brand-600: #dc2626; /* Deep Crimson */
+  --color-brand-700: #b91c1c;
+
+  --font-sans: "Inter", sans-serif;
+  --font-outfit: "Outfit", sans-serif;
+}
+
+@layer base {
+  :root {
+    --background: #f9fafb; /* gray-50 */
+    --foreground: #111827; /* gray-900 */
+    
+    --card: #ffffff;
+    --card-foreground: #111827;
+    
+    --primary: #dc2626;
+    --primary-foreground: #ffffff;
+    
+    --secondary: #fef2f2;
+    --secondary-foreground: #dc2626;
+    
+    --muted: #f3f4f6; /* gray-100 */
+    --muted-foreground: #6b7280; /* gray-500 */
+    
+    --border: #f3f4f6; /* gray-100 */
+    --input: #e5e7eb; /* gray-200 */
+    
+    --ring: #dc2626;
+    --radius: 0.75rem; /* xl */
+  }
+
+  body {
+    @apply bg-[var(--background)] text-[var(--foreground)] font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-outfit tracking-tighter;
+  }
+}
+
+/* Base Card Style */
+.base-card {
+  @apply bg-white border border-gray-100 shadow-sm rounded-2xl;
+}
+
+/* Animations */
+.hover-float {
+  @apply transition-all duration-500 hover:-translate-y-1 hover:shadow-xl hover:scale-[1.02];
+}
