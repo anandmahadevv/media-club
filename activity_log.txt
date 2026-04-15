@@ -1,1 +1,2 @@
 Activity logged on 06/11/2026 18:55:15 - Seq 0 - Refactored helpers
+Activity logged on 06/11/2026 18:55:15 - Seq 1 - Updated documentation
