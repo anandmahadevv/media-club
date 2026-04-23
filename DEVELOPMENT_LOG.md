@@ -7,3 +7,6 @@
 ## Update (2026-05-07T09:46:21)
 - refactor: cleanup unused variables and imports
 
+## Update (2026-04-23T09:46:21)
+- feat: add support for pagination in API
+
