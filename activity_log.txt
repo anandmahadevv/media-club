@@ -40,3 +40,4 @@ Activity logged on 06/11/2026 18:55:21 - Seq 38 - Added logging for debugging
 Activity logged on 06/11/2026 18:55:21 - Seq 39 - Code formatting and linting
 Activity logged on 06/11/2026 18:55:21 - Seq 40 - Refactored helpers
 Activity logged on 06/11/2026 18:55:21 - Seq 41 - Updated documentation
+Activity logged on 06/11/2026 18:55:21 - Seq 42 - Cleaned up unused imports
