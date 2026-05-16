@@ -50,3 +50,4 @@ Activity logged on 06/11/2026 18:55:22 - Seq 48 - Added logging for debugging
 Activity logged on 06/11/2026 18:55:23 - Seq 49 - Code formatting and linting
 Activity logged on 06/11/2026 18:55:23 - Seq 50 - Refactored helpers
 Activity logged on 06/11/2026 18:55:23 - Seq 51 - Updated documentation
+Activity logged on 06/11/2026 18:55:23 - Seq 52 - Cleaned up unused imports
