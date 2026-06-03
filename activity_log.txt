@@ -80,3 +80,4 @@ Activity logged on 06/11/2026 18:55:27 - Seq 78 - Added logging for debugging
 Activity logged on 06/11/2026 18:55:27 - Seq 79 - Code formatting and linting
 Activity logged on 06/11/2026 18:55:27 - Seq 80 - Refactored helpers
 Activity logged on 06/11/2026 18:55:28 - Seq 81 - Updated documentation
+Activity logged on 06/11/2026 18:55:28 - Seq 82 - Cleaned up unused imports
